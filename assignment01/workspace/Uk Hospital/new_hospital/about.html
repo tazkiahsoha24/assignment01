@@ -1,0 +1,106 @@
+<html>
+<head>
+	<title> UK Hospital </title>
+	
+	<link href="css/style.css" type="text/css" rel="stylesheet">
+	
+</head>
+<body>
+	
+	<div class="top">
+		<div>
+		 Contact Us: +91 96366 20000 / 01 | ukh@hospital.com 
+		</div>
+	</div>
+	
+	<div class="logo">
+		<div>
+			<table>
+				<tr>
+					<td width="600px" style="font-size:50px;font-family:forte;"> <font color="#428bca"> UK  </font><font color="#000"> Hospital</font> </td>
+					<td> <br> <br>
+						<font size="4px"> 
+							<a href="index.html">HOME</a> 
+							<a href="about.html">ABOUT US</a>  
+							<a href="service.html">SERVICE</a>
+							<a href="doctor.html">DOCTORS</a> 
+							<a href="contact.html">CONTACT US</a>
+						</font>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+	
+	
+	
+	<div class="bottom">
+		<div>
+			<table border="0">
+				<tr>
+					<td width="700px">
+						<font color="#000"> Welcome to <mark>UK Hospital</mark> </font> <br> <br>
+
+					<font color="#000" size="6px"> Best Medical & Health care Needs to Our Patients </font> <br> <br>
+
+It is one of the greatest medical service and health care place for the patient. It is 9,000 people like as: physicians, nurses, pharmacists and other health care professionals. All dedicated to providing the most advanced, most effective care available <br><br>
+
+It is physicians and other medical professionals trained in the most sophisticated, no matter how sick they are or how rare their illness, needs to go far from home for the treatment they need. <br><br>
+
+It is a Level 1 trauma center, ready every minute of every day to treat even the most serious injuries when they come through the door. And a Level IV Neonatal Intensive Care Unit, caring for the tiniest and sickest newborns and giving them a chance not just to live, but to live normal, productive, happy lives. <br><br>
+
+It is nurses providing care for every patient, every time that is so good it has received Magnet status, the highest recognition available in the nursing field. <br><br>
+
+And it is a network of partnerships and outreach locations throughout the state, so that world-class care is always close to home. <br><br>
+
+<font color="#000" size="6px"> Mission </font> <br> <br>
+
+UK Hospital is committed to the pillars of academic health care: research, education and clinical care. Dedicated to the health of the people of London, we will provide the most advanced patient care and serve as an information resource. We will strengthen local health care and improve the delivery system by partnering with community hospitals and physicians. We will support the organizational education and research needs by offering cutting edge services on par with the national best providers. <br><br>
+
+<font color="#000" size="6px"> Vision </font> <br> <br>
+
+The vision of UK Hospital is to achieve national recognition as a Top 20 public academic health center, providing optimal multidisciplinary health care and developing advanced medical therapeutics for the people of London and surrounding regions. <br> <br>
+<br>
+ </td>
+					
+					
+					<td style="padding-left:20px;"> <img src="img/about.jpg" width="400px"></td>
+				</tr>
+			
+				
+			</table>
+		</div>
+	</div>
+	
+	<div class="bottom">
+		<div>
+			<table border="0">
+				<tr>
+					<td width="700px">
+						<font color="#000">Address </font> <br> <br>
+
+					<font color="#000" size="6px"> UK Hospital & Research Center</font> <br> <br>
+
+180, East London, Mall Area.<br>
+Bridge Road. <br> United Kingdom. <br> Contact Us: +91 96366 20000 / 01 <br> Email: ukh@hospital.com<br><br>
+
+
+<br>
+ </td>
+					
+					
+					<td style="padding-left:20px;"> </td>
+				</tr>
+			
+				
+			</table>
+		</div>
+	</div>
+	
+	
+	<div class="nav_down">
+		<div>
+		 &copy; UK Hospital, site designed & developed by TAZKIA
+		</div>
+	</div>
+	
